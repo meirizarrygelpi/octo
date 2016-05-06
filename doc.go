@@ -1,3 +1,6 @@
+// Copyright (c) 2016 Melvin Eloy Irizarry-Gelpí
+// Licenced under the MIT License.
+
 // Package octo implements arithmetic for Cayley and Klein octonions.
 package octo
 
